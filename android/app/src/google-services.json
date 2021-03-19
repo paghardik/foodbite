@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600532896056",
+    "project_id": "foodbite-a8824",
+    "storage_bucket": "foodbite-a8824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600532896056:android:74cddbd1cbbdf1d16019cd",
+        "android_client_info": {
+          "package_name": "com.foodbite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600532896056-jqdekk4lbcev965jfjlpr96no2t77sk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhOXmvxczPMYlyeoSgbfj_k0pD9n3X8m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600532896056-jqdekk4lbcev965jfjlpr96no2t77sk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
